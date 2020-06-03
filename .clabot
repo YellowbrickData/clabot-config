@@ -1,6 +1,6 @@
 {
   "contributors": ["yb-cjacobs"],
   "label": "cla-signed",
-  "message": "Thank you for your pull request and welcome to our community! We require contributors to sign a [Contributor License Agreement](https://github.com/yb-cjacobs/clabot-config/raw/master/YellowbrickCLA.pdf), and we don't seem to have you on file. In order for your PR to be reviewed and merged, please submit the signed CLA to github@yellowbrick.com.\n\nCLA has not been signed by users ({{usersWithoutCLA}})",
+  "message": "Thank you for your pull request and welcome to our community! We require contributors to sign a [Contributor License Agreement](https://github.com/YellowbrickData/clabot-config/raw/master/YellowbrickCLA.pdf), and we don't seem to have you on file. In order for your PR to be reviewed and merged, please submit the signed CLA to github@yellowbrick.com.\n\nCLA has not been signed by users ({{usersWithoutCLA}})",
   "recheckComment": "Rechecking for signed CLA"
 }
